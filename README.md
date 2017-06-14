@@ -16,3 +16,7 @@ I cobbled this together via [Ogre 2](http://www.ogre3d.org/tikiwiki/tiki-index.p
 It may compile "as is" (CMake ., then make)... but you need more stuff to make it work.
 You need a "lib" folder with boost, Ogre and PolyVox libraries already built, plus the basic Ogre resource pack from the tutorial application.
 Check the file itself to see what you have to add to create a full distribution.
+
+
+![Animation](https://github.com/stefanos-86/CatapultGame/blob/master/theMovie.gif "Animation to show the game")
+
